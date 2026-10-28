@@ -98,7 +98,7 @@ That is a description of my experience, **not a technical conclusion about motiv
 
 It would also be inaccurate to say Claude never delivered anything. Claude returned code; 23 supplied tests passed locally before additional probes found defects. A later diagnostic returned a corrected schema-valid draft. OpenAI and Muse also had issues, including a report-size rejection and review errors. The responsible account is about the complete workflow, not blaming one provider.
 
-See [the retrospective](docs/RETROSPECTIVE.md) for the incident-by-incident distinction.
+See [the retrospective](RETROSPECTIVE.md) for the incident-by-incident distinction.
 
 ## Why I paused
 
@@ -112,9 +112,9 @@ The older control records still contain a phase-review state and historical targ
 
 | File | Purpose |
 |---|---|
-| [Technical specification](docs/TECHNICAL_SPECIFICATION.md) | Historical setup, contracts, lifecycle boundaries, safety controls, and requirements to consider for the unreleased redesign |
-| [Retrospective](docs/RETROSPECTIVE.md) | Timeline, failure classes, corrections to the personality interpretation, and lessons |
-| [Evidence and publication notes](docs/EVIDENCE_AND_PUBLICATION.md) | Source limits, historical test scope, privacy boundaries, and release checklist |
+| [Technical specification](TECHNICAL_SPECIFICATION.md) | Historical setup, contracts, lifecycle boundaries, safety controls, and requirements to consider for the unreleased redesign |
+| [Retrospective](RETROSPECTIVE.md) | Timeline, failure classes, corrections to the personality interpretation, and lessons |
+| [Evidence and publication notes](EVIDENCE_AND_PUBLICATION.md) | Source limits, historical test scope, privacy boundaries, and release checklist |
 
 ## Cost and responsible handling
 
